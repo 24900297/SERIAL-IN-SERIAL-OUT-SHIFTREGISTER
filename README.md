@@ -57,6 +57,7 @@ output [3:0] q;
 reg [3:0] q;
 
 always @(posedge clk)
+
 begin
 q[0] <= sin;
 
@@ -69,9 +70,6 @@ q[3] <= q[2];
 end
 
 endmodule
-
-Developed by: THIRUMALAI P
-RegisterNumber: 24900297
 
 **RTL LOGIC FOR SISO Shift Register**
 
