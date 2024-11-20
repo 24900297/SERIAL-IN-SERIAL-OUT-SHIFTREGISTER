@@ -40,6 +40,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 7.End the module declaration.
 
 Developed by: THIRUMALAI P
+
 RegisterNumber: 24900297
 
 **PROGRAM**
